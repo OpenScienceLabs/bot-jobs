@@ -3,3 +3,8 @@ channels:
     - defaults
 dependencies:
     - pip
+    - discord
+    - requests
+    - pip:
+        - replit
+        - keep_alive
