@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 """Top-level package for Bot Jobs."""
 
 __author__ = """Open Science Labs Team"""

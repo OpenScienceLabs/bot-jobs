@@ -1,10 +1,11 @@
+name: osl-bot-jobs
 channels:
-    - conda-forge
-    - defaults
+  - conda-forge
 dependencies:
-    - pip
-    - discord
-    - requests
-    - pip:
-        - replit
-        - keep_alive
+  - pip
+  - discord.py
+  - python-dotenv
+  - requests
+  - pip:
+    - replit
+    - keep_alive
