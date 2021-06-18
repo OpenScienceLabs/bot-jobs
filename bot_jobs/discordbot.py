@@ -1,11 +1,8 @@
 import datetime
-import json
 import os
-import random
 
 import discord
 import requests
-from replit import db
 from dotenv import load_dotenv
 
 load_dotenv()
